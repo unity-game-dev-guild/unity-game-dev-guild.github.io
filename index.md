@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Unityゲーム開発者ギルド
 
-You can use the [editor on GitHub](https://github.com/nkjzm/unity-guild/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Unityゲーム開発者ギルドとは
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+すでに参加済みの方はコチラ⇒ [unity-game-dev-guild](https://scrapbox.io/unity-game-dev-guild/) (SlackのReadmeチャンネルに招待リンクがあります)
 
-### Markdown
+- Unityを使ったゲーム開発・運用に関するあらゆる知見を共有できる場として、Unityゲーム開発者達によって作られたコミュニティです。
+- 同業者がお互いに助け合うという意味でまさに「ギルド」なので、「Unityゲーム開発者ギルド」(以降ギルド)という名前にしました。
+- チームおよび職務（プランナー／プログラマー／デザイナー等）の垣根を超えた交流を目的としています。
+- **「Unity製のゲームを開発・運用」**をしている（しようとしている）なら、誰でもこのギルドに参加できます。
+- [Slack](https://unity-game-dev-guild.slack.com/)を主な活動拠点とし、会話を通して互いに知見を与え合っています。
+- Slackはフロー型の情報共有ツールなので、ストック型の情報共有ツールとしてScrapboxを採用し、メンバー限定公開の知見を蓄積していきます。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Unityゲーム開発者ギルドへの参加方法
 
-```markdown
-Syntax highlighted code block
+- 当ギルドの用意したSlackチームおよびScrapboxチームへの参加をもってギルドへ参加したものとみなします。
+- 本ページの内容をよく読んだ上で参加申請をお願いします。
+- 参加を希望する場合、[ないち](https://twitter.com/naichilab)までDMなどで**メールアドレス**をお知らせください。
+  - ３〜４日経っても返事がない場合は見逃してる可能性が高いので再度連絡ください。
+- ゲーム開発者として「より良いゲームの開発・運用」を目指しているのではなく、単なる情報収集を目的とした参加はお断りしています。
 
-# Header 1
-## Header 2
-### Header 3
+## 注意およびプライバシーポリシー
 
-- Bulleted
-- List
+- 最初にご連絡いただいたメールアドレス宛にSlackチーム参加の招待メールをお送りします。
+  - いただいたTwitterDMにはメールアドレスを含むため、利用後はすみやかに削除します。
+- Slackアカウントとメールアドレス
+  - Slackチームの設定でプロフィールのメールアドレスを非表示としています。
+- Scrapboxアカウントとメールアドレス
+  - Scrapboxチームへの参加はGoogleアカウントでの認証が必要です。（Slackの登録アドレスとは違っても良いです）
+  - Scrapboxの仕様上、メールアドレスは非表示にできず、チームメンバーが確認できる状態となるようです。
+  - これに納得できない場合はギルドへの参加をお控えください。
+- Slack、Scrapbox共に管理者(ないち)は全員のメールアドレスを知ることができますが、直接メールをお送りすることはございません。
 
-1. Numbered
-2. List
+## よくある質問
 
-**Bold** and _Italic_ and `Code` text
+### Q. プログラマーじゃないけど参加していいの？
 
-[Link](url) and ![Image](src)
-```
+A. ゲーム開発・運用をしている自負があれば職務（プランナー／プログラマー／デザイナー等）は問いません。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Q. まだゲームをリリースしていないけど参加していいの？
 
-### Jekyll Themes
+A. ゲーム開発・運営者になるという気概さえあれば問題ありません。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nkjzm/unity-guild/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Q. 初心者だけど参加していいの？
 
-### Support or Contact
+A. 良いコミュニティを作る上では、新人・初心者こそ宝です。遠慮せず参加してください！
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Q. Slackでは何を話したらいいの？
+
+A. 参加者一人一人にチャンネル（部屋）を用意するので、基本的に独り言で大丈夫です。（今日はどこまで進んだとか、何で困ってるとか、そういうもので大丈夫。）これらの発言は他の人からも見えるので、反応やアドバイスから会話に発展します。
+
+## 他のコミュニティについて
+
+- Unity関連のコミュニティはオンライン／オフライン問わずたくさん存在しています。
+- このギルド以外にもコミュニティは多数あるので、自分にあったものを探してみてください。
+  - [https://scrapbox.io/unity-japan-community/](https://scrapbox.io/unity-japan-community/)
+
